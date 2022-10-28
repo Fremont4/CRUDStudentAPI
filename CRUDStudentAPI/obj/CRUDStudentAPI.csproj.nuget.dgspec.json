@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\Collab\\CRUDStudentAPI\\CRUDStudentAPI\\CRUDStudentAPI.csproj": {}
+    "C:\\Users\\fremont\\source\\repos\\CRUDStudentAPI\\CRUDStudentAPI\\CRUDStudentAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\Collab\\CRUDStudentAPI\\CRUDStudentAPI\\CRUDStudentAPI.csproj": {
+    "C:\\Users\\fremont\\source\\repos\\CRUDStudentAPI\\CRUDStudentAPI\\CRUDStudentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Collab\\CRUDStudentAPI\\CRUDStudentAPI\\CRUDStudentAPI.csproj",
+        "projectUniqueName": "C:\\Users\\fremont\\source\\repos\\CRUDStudentAPI\\CRUDStudentAPI\\CRUDStudentAPI.csproj",
         "projectName": "CRUDStudentAPI",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\Collab\\CRUDStudentAPI\\CRUDStudentAPI\\CRUDStudentAPI.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\Collab\\CRUDStudentAPI\\CRUDStudentAPI\\obj\\",
+        "projectPath": "C:\\Users\\fremont\\source\\repos\\CRUDStudentAPI\\CRUDStudentAPI\\CRUDStudentAPI.csproj",
+        "packagesPath": "C:\\Users\\fremont\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fremont\\source\\repos\\CRUDStudentAPI\\CRUDStudentAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fremont\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
