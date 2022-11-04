@@ -2,7 +2,7 @@
 {
     public record Login
     {
-        public string Username { get; set; }
+        public string StudentNo { get; set; }
         public string Password { get; set; }
     }
 }
